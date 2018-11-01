@@ -1,4 +1,4 @@
-# REACT-MOVIEDB
+# react-moviedb
 
 #### [react-moviedb--gmr.herokuapp.com](https://react-moviedb--gmr.herokuapp.com/)
 
