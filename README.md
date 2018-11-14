@@ -1,9 +1,16 @@
-# react-moviedb
+# MovieDB Search
 
-#### [react-moviedb--gmr.herokuapp.com](https://react-moviedb--gmr.herokuapp.com/)
+#### [Live](https://react-moviedb--gmr.herokuapp.com/)
 
 ## Description:
-...
+An application that allows users to search movies using the MovieDB API, created to better understand the React framework.
+
+## Objectives:
+:white_check_mark: Practice React with Create React App.
+:white_check_mark: Practice using APIs & JSON.
+
+## Summary:
+This project was based on [Lets Build That App's](https://youtu.be/bqSSLr8A8PU) tutorial on ReactJS uisng the MovieDB API. This was my brief introduction into working with React using Create React App. I learned a lot about how to use components, connecting to an API, and working with JSON.  
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
